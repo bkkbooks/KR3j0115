@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR3j0115/bkk/v1/markers/4
+seq: 4
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3j0115_krp_004-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3j0115_WYG_004-1a01}
+  - {type: substitution, offset: 3, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
+  - {type: 'kr:newline', offset: 5, content: '
+
+      ', id: KR3j0115_krp_004-bkkkrnewl2}
+  - {type: line-break, offset: 5, content: '', id: KR3j0115_WYG_004-1a02}
+  - {type: 'kr:newline', offset: 26, content: '
+
+      ', id: KR3j0115_krp_004-bkkkrnewl3}
+  - {type: line-break, offset: 26, content: '', id: KR3j0115_WYG_004-1a03}
+  - {type: 'kr:newline', offset: 47, content: '
+
+      ', id: KR3j0115_krp_004-bkkkrnewl4}
+  - {type: line-break, offset: 47, content: '', id: KR3j0115_WYG_004-1a04}
+  - {type: substitution, offset: 51, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3073}}
+  - {type: 'kr:newline', offset: 68, content: '
+
+      ', id: KR3j0115_krp_004-bkkkrnewl5}
+  - {type: line-break, offset: 68, content: '', id: KR3j0115_WYG_004-1a05}
+  - {type: substitution, offset: 69, original: 栞, replacement: 刊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0073}}
+  - {type: 'kr:newline', offset: 89, content: '
+
+      ', id: KR3j0115_krp_004-bkkkrnewl6}
+  - {type: line-break, offset: 89, content: '', id: KR3j0115_WYG_004-1a06}
+  - {type: 'kr:newline', offset: 92, content: '
+
+      ', id: KR3j0115_krp_004-bkkkrnewl7}
+  back: []
+hash: sha256:2ca83baeb484490a9c02cbea2e012bf5b736e05951e14872659a5a2632a7fac4

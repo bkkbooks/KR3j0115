@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0115/WYG/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東園叢説跋東園先生李君少遊上庠博學多聞與紹興諸魁皆友善平時上下論議出入經傳前言往行靡不識録庭筠來吏桐鄉宻邇南牆暇日授讀得償未見之願謹輟俸以栞諸梓其於學者亦有助云紹興甲寅正吉建安周庭筠識
+  hash: sha256:4c1eca8e2f9bdc4c77082016c38527b30a556ee31c7576c7a439118b85c13570
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0115_WYG_004-1a, image: WYG0864/WYG0864-0235c.png}
+metadata:
+  title: 東園叢說
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:23:46.921298'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR3j0115/KR3j0115_004.txt
+hash: sha256:dd9823a3c9bc8d069135d3b8f9aec05d04555e6214444ac3e43489351092e5ae
