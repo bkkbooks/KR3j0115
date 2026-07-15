@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 東園叢説跋東園先生李君少遊上庠博學多聞與紹興諸魁皆友善平時上下論議出入經傳前言往行靡不識録庭筠來吏桐鄉宻邇南牆暇日授讀得償未見之願謹輟俸以栞諸梓其於學者亦有助云紹興甲寅正吉建安周庭筠識
-  hash: sha256:4c1eca8e2f9bdc4c77082016c38527b30a556ee31c7576c7a439118b85c13570
+  text: 東園叢説跋東園先生李君少遊上庠博學多聞與紹興諸魁皆友善平時上下論議出入經傳前言往行靡不識録庭筠來吏桐鄉密邇南牆暇日授讀得償未見之願謹輟俸以刊諸梓其於學者亦有助云紹興甲寅正吉建安周庭筠識
+  hash: sha256:b69ea508f99be6651a734aae207e70fe4b2f49b1ad895ba9145a8292f2cd0a16
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3j0115_WYG_004-1a, image: WYG0864/WYG0864-0235c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3j0115/KR3j0115_004.txt
-hash: sha256:11db228e38236f1c228a2ee07014e1ef59b68016d2037327a59fe97fd9098c54
+hash: sha256:f1590822dd1bce4d86cd810f36456cd21bf80cabd84a92b8bedbe6dac6beaea4
